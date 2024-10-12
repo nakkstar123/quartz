@@ -9,8 +9,13 @@ Hello! I'm Nakul, an incoming PhD student at UCLA. I'm interested in the researc
 
 ## Todo
 
-- [ ] Read the [Rust book](https://doc.rust-lang.org/book/)
-- [ ] Watch the recent [MPC Bar Ilan series](https://www.youtube.com/watch?v=fAXlOOs2t88&list=PL8Vt-7cSFnw1F7bBFws2kWA-7JVFkqKTy) on YouTube 
+- [ ] Learn Rust
+  - [ ] Read the [Rust book](https://doc.rust-lang.org/book/)
+  - [ ] Complete mpz-play tutorials
+  - [ ] View MPZ repo's OT codebase
+- [ ] Study MPC 
+  - [ ] Watch the recent [MPC Bar Ilan series](https://www.youtube.com/watch?v=fAXlOOs2t88&list=PL8Vt-7cSFnw1F7bBFws2kWA-7JVFkqKTy) on YouTube and read VOLE/PCG papers 
+  - [ ] Read MP-SPDZ dishonest majority, malicious security papers
 - [ ] Write a grant proposal for PSE auth garbling / silent OT extension project
 - [ ] Open source my MPC projects
 
